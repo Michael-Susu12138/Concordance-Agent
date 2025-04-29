@@ -1,5 +1,5 @@
 # Concordance-Agent
 
-this is group 1 project
+### TODO:
 
-I changed this
+1. write the details about our multiagentic system: what does each agent do?
