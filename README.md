@@ -41,7 +41,6 @@ Automatically checks **concordance** vs. **discordance** between ultrasound imag
 
 ### Prerequisites  
 - Python 3.9+  
-- `graphviz` (for architecture visualization)  
 - Network access to your on-prem MCP server and PACS/LIS connectors
 
 ### Installation  
